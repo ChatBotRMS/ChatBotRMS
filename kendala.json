@@ -1,0 +1,77 @@
+{
+  "!1": {
+    "judul": "Tidak Terhubung dengan Server",
+    "solusi": "User Lakukan clear Cache Dan Hapus History APK RMS, lalu restart handphone",
+    "diselesaikan_oleh": "User"
+  },
+  "!2": {
+    "judul": "Lokasi MAPS tidak Aktif",
+    "solusi": "User MRO Lakukan kalibrasi ulang maps di google maps-nya",
+    "diselesaikan_oleh": "User"
+  },
+  "!3": {
+    "judul": "Format Bahasa Tidak Valid",
+    "solusi": "Lakukan perubahan format Bahasa di settingan HP MRO",
+    "diselesaikan_oleh": "User"
+  },
+  "!4": {
+    "judul": "Device Tidak Sesuai",
+    "solusi": "Akan dilakukan pengecekan oleh tim HO",
+    "diselesaikan_oleh": "HO"
+  },
+  "!5": {
+    "judul": "Kode OTP tidak bisa diterima",
+    "solusi": "Akan dilakukan pengecekan oleh tim HO",
+    "diselesaikan_oleh": "HO"
+  },
+  "!6": {
+    "judul": "Tidak Terhubung dengan server",
+    "solusi": "Akan dilakukan pengecekan oleh tim HO",
+    "diselesaikan_oleh": "HO"
+  },
+  "!7": {
+    "judul": "CLAR Error Authorization has been denied for The Request",
+    "solusi": "Akan dilakukan pengecekan oleh tim HO",
+    "diselesaikan_oleh": "HO"
+  },
+  "!8": {
+    "judul": "RMS terus berhenti",
+    "solusi": "Update versi android dan clear cache di google play service",
+    "diselesaikan_oleh": "User"
+  },
+  "!9": {
+    "judul": "Loading data di aplikasi terlalu lama",
+    "solusi": "Clear cache dan Hapus history APK, Lalu restart handphone",
+    "diselesaikan_oleh": "User"
+  },
+  "!10": {
+    "judul": "Tidak dapat menginstall aplikasi dari sumber tidak dikenal",
+    "solusi": "Lakukan tata cara seperti video berikut : https://youtu.be/0jZn-PE5s9w?si=o_z78w6NpEv_VF0M ",
+    "diselesaikan_oleh": "User"
+  },
+  "!11": {
+    "judul": "Session Expired",
+    "solusi": "User Lakukan clear Cache Dan Hapus History APK RMS, lalu restart handphone",
+    "diselesaikan_oleh": "User"
+  },
+  "!12": {
+    "judul": "Akses token tidak valid",
+    "solusi": "User Lakukan clear Cache Dan Hapus History APK RMS, lalu restart handphone",
+    "diselesaikan_oleh": "User"
+  },
+  "!13": {
+    "judul": "User tidak ditemukan / tidak aktif",
+    "solusi": "User Lakukan clear Cache Dan Hapus History APK RMS, lalu restart handphone",
+    "diselesaikan_oleh": "HO"
+  },
+  "!14": {
+    "judul": "Page not found",
+    "solusi": "User Lakukan clear Cache Dan Hapus History APK RMS, lalu restart handphone",
+    "diselesaikan_oleh": "HO"
+  },
+  "!15": {
+    "judul": "Tidak dapat melakukan foto hasil kunjungan",
+    "solusi": "Membuka goole maps lalu klik beberapa kali titik lokasi saat ini, setelah itu lakukan restart",
+    "diselesaikan_oleh": "User"
+  }
+}

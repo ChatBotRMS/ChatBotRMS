@@ -1,0 +1,24 @@
+{
+  "name": "whatsapp-bot-cs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bot-whatsapp/bot": "^0.1.38",
+    "@bot-whatsapp/database-json": "^0.1.1-alpha.0",
+    "@bot-whatsapp/provider-baileys": "^0.1.0-alpha.18",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.3.0",
+    "puppeteer": "^24.4.0",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.32.6",
+    "whatsapp-web.js": "^1.23.0",
+    "xlsx": "^0.18.5"
+  },
+  "description": ""
+}

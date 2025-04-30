@@ -1,0 +1,35 @@
+[
+  {
+    "user": "6281916523470@c.us",
+    "issue": "Error saat login",
+    "status": "Pending",
+    "date": "24/03/2025, 10.09.34"
+  },
+  {
+    "user": "6281916523470@c.us",
+    "issue": "Aplikasi crash",
+    "status": "Pending",
+    "date": "24/03/2025, 10.09.51"
+  },
+  {
+    "user": "6281916523470@c.us",
+    "issue": "Server down",
+    "status": "Pending",
+    "date": "24/03/2025, 10.10.15"
+  },
+  {
+    "user": "120363031653084937@g.us",
+    "issue": "!error_login",
+    "status": "Pending"
+  },
+  {
+    "user": "120363031653084937@g.us",
+    "issue": "!server_down",
+    "status": "Pending"
+  },
+  {
+    "user": "120363022363912815@g.us",
+    "issue": "!server_down",
+    "status": "Pending"
+  }
+]
